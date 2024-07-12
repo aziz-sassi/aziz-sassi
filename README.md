@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **Sassiaziz50@gmail.com**
 
-- ⚡ Fun fact **i think spiders are cute 🕷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

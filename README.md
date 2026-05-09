@@ -1,38 +1,151 @@
-<h1 align="center">Hi 👋, I'm Aziz Sassi</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from Tunisia</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Aziz+Sassi;Solo+App+Developer;Senior+React+Native+Engineer;Building+Products+From+Bali+🌴" />
+</h1>
 
-<p align="center">
-  🔭 I’m currently working on <strong>building scalable web applications</strong><br>
-  🌱 I’m learning <strong>TypeScript and advanced system design</strong><br>
-  💬 Ask me about <strong>React, Node.js, Express.js, and full-stack development</strong><br>
-  📧 Reach me at <strong>Sassiaziz50@gmail.com</strong>
-</p>
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40" /></a>
-</p>
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aziz-sassi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-sassi&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-sassi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/aziz-sassi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/x.vziz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20my%20Universe&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=00F7FF&animation=fadeIn&desc=Crafting%20Scalable%20Apps%20%7C%20Shipping%20Fast%20%7C%20Living%20in%20Bali&descAlign=50&descAlignY=65"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aziz-sassi&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/aziz-sassi?style=for-the-badge&logo=github&color=00F7FF" />
+
+<img src="https://img.shields.io/github/stars/aziz-sassi?style=for-the-badge&logo=github&color=8A2BE2" />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
+typescript
+const aziz = {
+  name: "Aziz Sassi",
+  location: "Bali, Indonesia 🌴",
+  role: "Solo App Developer",
+  title: "Senior React Native Engineer",
+  
+  currentFocus: [
+    "Mobile App Development",
+    "SaaS Products",
+    "Scalable Architectures",
+    "AI-Powered Applications",
+    "Revenue-Driven Products"
+  ],
+
+  techStack: {
+    frontend: [
+      "React",
+      "React Native",
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "Redux"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js",
+      "Firebase"
+    ],
+
+    databases: [
+      "MongoDB",
+      "PostgreSQL"
+    ],
+
+    tools: [
+      "Docker",
+      "Git",
+      "Figma",
+      "Webpack"
+    ]
+  },
+
+  philosophy: "Build fast. Scale hard. Stay independent.",
+
+  currentlyLearning: [
+    "Advanced System Design",
+    "Performance Optimization",
+    "AI Integrations"
+  ]
+};
+<br clear="right"/>
+
+⚔️ Tech Arsenal
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,js,nodejs,express,firebase,mongodb,postgres,docker,tailwind,git,figma,webpack,vscode&perline=8" />
+</div>
+
+📈 GitHub Analytics
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aziz-sassi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-sassi&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
+</div>
+<div align="center">
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-sassi&theme=tokyonight&hide_border=true&border_radius=20" />
+</div>
+
+🐍 Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+🚀 Featured Projects
+<div align="center">
+<a href="https://github.com/aziz-sassi/YOUR_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aziz-sassi&repo=YOUR_REPO&theme=tokyonight&hide_border=true&border_radius=20" />
+</a>
+<a href="https://github.com/aziz-sassi/YOUR_SECOND_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aziz-sassi&repo=YOUR_SECOND_REPO&theme=tokyonight&hide_border=true&border_radius=20" />
+</a>
+</div>
+
+🌍 Connect With Me
+<div align="center">
+<a href="https://linkedin.com/in/aziz-sassi" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/x.vziz" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:Sassiaziz50@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+
+☕ Current Status
+<div align="center">
+📍 Based in Bali⚡ Building apps solo🚀 Scaling products globally🧠 Obsessed with clean UX & performance💻 Shipping every week
+</div>
+
+🎧 Coding Vibes
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31q7lqf7d4jv0n7n3t6t7r5r5qxu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+</div>
+
+🏆 Achievements
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aziz-sassi&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
+</div>
+
+💀 Philosophy
+<div align="center">
+
+“Code is leverage.
+The goal isn’t writing software.
+The goal is building freedom.”
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+</div>
